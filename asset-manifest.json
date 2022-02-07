@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c19c957.chunk.css",
-    "main.js": "/static/js/main.35e63f7e.chunk.js",
-    "main.js.map": "/static/js/main.35e63f7e.chunk.js.map",
+    "main.css": "/static/css/main.e9c0ee95.chunk.css",
+    "main.js": "/static/js/main.7fcc7ff4.chunk.js",
+    "main.js.map": "/static/js/main.7fcc7ff4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.108a0b26.js",
     "runtime-main.js.map": "/static/js/runtime-main.108a0b26.js.map",
     "static/css/2.b3de86e5.chunk.css": "/static/css/2.b3de86e5.chunk.css",
-    "static/js/2.47b6aa54.chunk.js": "/static/js/2.47b6aa54.chunk.js",
-    "static/js/2.47b6aa54.chunk.js.map": "/static/js/2.47b6aa54.chunk.js.map",
+    "static/js/2.50de933e.chunk.js": "/static/js/2.50de933e.chunk.js",
+    "static/js/2.50de933e.chunk.js.map": "/static/js/2.50de933e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.98e9ae01a42d087bcd63c0218b6a4b35.js": "/precache-manifest.98e9ae01a42d087bcd63c0218b6a4b35.js",
+    "precache-manifest.85cd0b9732111832f00116d76ed19195.js": "/precache-manifest.85cd0b9732111832f00116d76ed19195.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.b3de86e5.chunk.css.map": "/static/css/2.b3de86e5.chunk.css.map",
-    "static/css/main.8c19c957.chunk.css.map": "/static/css/main.8c19c957.chunk.css.map",
-    "static/js/2.47b6aa54.chunk.js.LICENSE.txt": "/static/js/2.47b6aa54.chunk.js.LICENSE.txt",
+    "static/css/main.e9c0ee95.chunk.css.map": "/static/css/main.e9c0ee95.chunk.css.map",
+    "static/js/2.50de933e.chunk.js.LICENSE.txt": "/static/js/2.50de933e.chunk.js.LICENSE.txt",
     "static/media/AlyWestwoodWebCV.pdf": "/static/media/AlyWestwoodWebCV.9e0f620e.pdf",
     "static/media/Bootstrap.svg": "/static/media/Bootstrap.7ea80744.svg",
     "static/media/CSS 3.svg": "/static/media/CSS 3.3c627e27.svg",
@@ -30,18 +30,18 @@
     "static/media/Spring.svg": "/static/media/Spring.31a12f60.svg",
     "static/media/VS Code.svg": "/static/media/VS Code.1163e58e.svg",
     "static/media/Visual Studio.svg": "/static/media/Visual Studio.fc03eb16.svg",
+    "static/media/App.css": "/static/media/biglogo.42436542.svg",
     "static/media/clickclinicpreview.png": "/static/media/clickclinicpreview.ff7d64f5.png",
-    "static/media/favicon2.ico": "/static/media/favicon2.15e87c8d.ico",
+    "static/media/logo.svg": "/static/media/logo.55e6d7ce.svg",
     "static/media/refactorpreview.png": "/static/media/refactorpreview.224d0d0d.png",
-    "static/media/App.css": "/static/media/signature.070ed4ec.svg",
     "static/media/tasteofbakingpreview.png": "/static/media/tasteofbakingpreview.ca8c876c.png",
     "static/media/unilogpreview.png": "/static/media/unilogpreview.6cfd6156.png"
   },
   "entrypoints": [
     "static/js/runtime-main.108a0b26.js",
     "static/css/2.b3de86e5.chunk.css",
-    "static/js/2.47b6aa54.chunk.js",
-    "static/css/main.8c19c957.chunk.css",
-    "static/js/main.35e63f7e.chunk.js"
+    "static/js/2.50de933e.chunk.js",
+    "static/css/main.e9c0ee95.chunk.css",
+    "static/js/main.7fcc7ff4.chunk.js"
   ]
 }
