@@ -3,11 +3,11 @@
 import React, { useState, useEffect } from 'react';
 // Swiper (carousel)
 import { EffectCoverflow } from "swiper";
-import {Swiper, SwiperSlide} from 'swiper/react/swiper-react';
-import "swiper/swiper.min.css";
-import 'swiper/modules/pagination/pagination';
-import 'swiper/modules/navigation/navigation';
-import "swiper/modules/effect-coverflow/effect-coverflow";
+import {Swiper, SwiperSlide} from 'swiper/react';
+import "swiper/css";
+import 'swiper/scss/pagination';
+import 'swiper/scss/navigation';
+import "swiper/scss/effect-coverflow";
 // Scrollspy
 import Scrollspy from 'react-scrollspy';
 // Bootstrap
