@@ -20,7 +20,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "npm run svgo && react-scripts build",
+    "build": "npm run svgo && react-scripts build && echo 'wwww.alywestwood.ca > build/CNAME",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "svgo": "svgo -f ./src/assets && svgo -f ./src/assets/skills"
