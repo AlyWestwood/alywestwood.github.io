@@ -154,7 +154,7 @@ function Projects() {
                   <p className=''>{slide.description}</p>
                   <p>Technologies used: {slide.tech}</p>
                   <Row>
-                      <Col sm={3} xs={6} className='h4'><a target='_blank' rel="noopener noreferrer" href={slide.href}>Site</a></Col>
+                      {/* <Col sm={3} xs={6} className='h4'><a target='_blank' rel="noopener noreferrer" href={slide.href}>Site</a></Col> */}
                       <Col sm={3} xs={6} className='h4'><a target='_blank' rel="noopener noreferrer" href={slide.repo}>Repo</a></Col>
                   </Row>
               </div>
@@ -171,8 +171,7 @@ function About(){
             <h4 className="display-4">About</h4>
             <p>Hi. My name is Aly Westwood.</p> 
             <p>
-                I am a Full-Stack Developer AEC student at John Abbott College. 
-                I'm graduating in June and seeking employment starting 11 April 2022. 
+                I am a Full-Stack Developer residing near Montreal QC.
             </p>
             <p>
                 After the pandemic hit, I decided to refocus my career from aircraft maintenance to software development.
@@ -277,7 +276,7 @@ function Contact(){
                   </tr>
                   <tr>
                       <th className="text-secondary">Availability</th>
-                      <td className="text-primary"><MdOutlineEventAvailable/> 11 April 2022 </td>
+                      <td className="text-primary"><MdOutlineEventAvailable/> undetermined </td>
                   </tr>
               </tbody>
           </table>
