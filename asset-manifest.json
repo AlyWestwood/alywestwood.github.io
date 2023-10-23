@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.70219dd6.css",
+    "main.js": "/static/js/main.883a1b9c.js",
+    "static/media/unilogpreview.png": "/static/media/unilogpreview.18baa764a5326de598ab.png",
+    "static/media/tasteofbakingpreview.png": "/static/media/tasteofbakingpreview.d91ed8c34a94e4cc4f63.png",
+    "static/media/refactorpreview.png": "/static/media/refactorpreview.2bd654fbf09e421e2f83.png",
+    "static/media/arrow-down.png": "/static/media/arrow-down.5390ae5fe3dda672bd12.png",
+    "static/media/clickclinicpreview.png": "/static/media/clickclinicpreview.52807691c4fd67a0b125.png",
+    "static/media/AlyWestwoodWebCV.pdf": "/static/media/AlyWestwoodWebCV.2e2f972217361bbe9e90.pdf",
+    "static/media/biglogo.svg": "/static/media/biglogo.386837cd4cbb89c8edca.svg",
+    "static/media/Nest JS.svg": "/static/media/Nest JS.d64451243e09477d84af.svg",
+    "static/media/PostgreSQL.svg": "/static/media/PostgreSQL.a866f2bb24dcf697b2d4.svg",
+    "static/media/JQuery.svg": "/static/media/JQuery.60d8f47747463f82e88b.svg",
+    "static/media/React JS.svg": "/static/media/React JS.7d41517f48e7150fb012.svg",
+    "static/media/MySQL.svg": "/static/media/MySQL.fca02cc8d350e8c182b9.svg",
+    "static/media/Java.svg": "/static/media/Java.226d16343d1a32bbdf6f.svg",
+    "static/media/Node JS.svg": "/static/media/Node JS.42825bb924d0e54c0c3b.svg",
+    "static/media/PHP.svg": "/static/media/PHP.5e54545e075fd9a0c8a2.svg",
+    "static/media/logo.svg": "/static/media/logo.ccd51c84ee27ae6a767ae05278bbe5ca.svg",
+    "static/media/Bootstrap.svg": "/static/media/Bootstrap.38c9e65dbc602278d3b1.svg",
+    "static/media/VS Code.svg": "/static/media/VS Code.d555104234cb6ebb9e81.svg",
+    "index.html": "/index.html",
+    "static/media/JavaScript.svg": "/static/media/JavaScript.3e840114375692515ec2.svg",
+    "static/media/Spring.svg": "/static/media/Spring.372a669bcffed6f73a19.svg",
+    "static/media/IntelliJ.svg": "/static/media/IntelliJ.a04cd019601e07d82bb3.svg",
+    "static/media/HTML 5.svg": "/static/media/HTML 5.71caf7da99f9db5ba4df.svg",
+    "static/media/CSS 3.svg": "/static/media/CSS 3.1a80be32965095778d3f.svg",
+    "static/media/Visual Studio.svg": "/static/media/Visual Studio.b69e4829b9ec76797a82.svg",
+    "main.70219dd6.css.map": "/static/css/main.70219dd6.css.map",
+    "main.883a1b9c.js.map": "/static/js/main.883a1b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70219dd6.css",
+    "static/js/main.883a1b9c.js"
+  ]
+}
