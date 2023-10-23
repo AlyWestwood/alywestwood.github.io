@@ -203,7 +203,7 @@ function About(){
                     </tr>
                     <tr>
                         <th className="text-secondary">Available</th>
-                        <td className="text-primary">11 April 2022</td>
+                        <td className="text-primary">TBD</td>
                     </tr>
                 </tbody>
             </table>
